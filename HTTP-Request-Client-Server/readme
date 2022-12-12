@@ -1,0 +1,1 @@
+This project is from my CS340 class where we created a basic client-server relationship utlizing python. The client sends HTTP requests to the server, and the server responds in kind by processing and responding to that request. This project created this special interaction without the use of any additional libraries.
